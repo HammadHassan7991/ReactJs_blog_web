@@ -3,6 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+First run cmd below to create JSON server to get JSON data
+### npx json-server --watch data/db.json --port 8000
+
+Then rum below command to install node modules
+### npm install
 
 In the project directory, you can run:
 
