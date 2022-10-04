@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "Opening party",
+      "body": "Why do we use itssss",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "second blog",
+      "body": "test",
+      "author": "yoshi",
+      "id": 3
+    }
+  ]
+}
